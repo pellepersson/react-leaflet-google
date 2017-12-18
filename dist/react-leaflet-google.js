@@ -1260,7 +1260,7 @@ return /******/ (function(modules) { // webpackBootstrap
 
 	  options: {
 	    minZoom: 0,
-	    maxZoom: 18,
+	    maxZoom: 22,
 	    tileSize: 256,
 	    subdomains: 'abc',
 	    errorTileUrl: '',
